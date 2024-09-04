@@ -1,0 +1,28 @@
+2024-08-12 12:33:04,806 - INFO - Files in target directory: ['ADG0001 Bio.txt', 'adg0001_er_2024_04_23.csv', 'ADG0002 Bio.txt', 'adg0002_er_2024_04_23.csv']
+2024-08-12 12:33:04,806 - INFO - CSV files identified: ['adg0001_er_2024_04_23.csv', 'adg0002_er_2024_04_23.csv']
+2024-08-12 12:33:04,808 - INFO - Full path for processing: C:/Users/asha4/OneDrive - SRH/Case Study-1/Dennis- Files/WG_ [EXTERN]  Transcripts and Biographies\adg0001_er_2024_04_23.csv
+2024-08-12 12:33:56,829 - INFO - Files in target directory: ['ADG0001 Bio.txt', 'adg0001_er_2024_04_23.csv', 'ADG0002 Bio.txt', 'adg0002_er_2024_04_23.csv']
+2024-08-12 12:33:56,839 - INFO - CSV files identified: ['adg0001_er_2024_04_23.csv', 'adg0002_er_2024_04_23.csv']
+2024-08-12 12:33:56,842 - INFO - Full path for processing: C:/Users/asha4/OneDrive - SRH/Case Study-1/Dennis- Files/WG_ [EXTERN]  Transcripts and Biographies\adg0001_er_2024_04_23.csv
+2024-08-12 12:33:56,844 - INFO - Processing file: C:/Users/asha4/OneDrive - SRH/Case Study-1/Dennis- Files/WG_ [EXTERN]  Transcripts and Biographies\adg0001_er_2024_04_23.csv
+2024-08-12 12:33:56,852 - ERROR - An error occurred while processing the file C:/Users/asha4/OneDrive - SRH/Case Study-1/Dennis- Files/WG_ [EXTERN]  Transcripts and Biographies\adg0001_er_2024_04_23.csv: name 'extract_rows_with_sprecher' is not defined
+2024-08-12 12:33:56,852 - INFO - Full path for processing: C:/Users/asha4/OneDrive - SRH/Case Study-1/Dennis- Files/WG_ [EXTERN]  Transcripts and Biographies\adg0002_er_2024_04_23.csv
+2024-08-12 12:33:56,853 - INFO - Processing file: C:/Users/asha4/OneDrive - SRH/Case Study-1/Dennis- Files/WG_ [EXTERN]  Transcripts and Biographies\adg0002_er_2024_04_23.csv
+2024-08-12 12:33:56,875 - ERROR - An error occurred while processing the file C:/Users/asha4/OneDrive - SRH/Case Study-1/Dennis- Files/WG_ [EXTERN]  Transcripts and Biographies\adg0002_er_2024_04_23.csv: name 'extract_rows_with_sprecher' is not defined
+2024-08-12 12:33:56,878 - INFO - Monitoring directory: C:/Users/asha4/OneDrive - SRH/Case Study-1/Dennis- Files/
+2024-08-12 12:39:56,561 - INFO - Files in target directory: ['ADG0001 Bio.txt', 'adg0001_er_2024_04_23.csv', 'ADG0002 Bio.txt', 'adg0002_er_2024_04_23.csv']
+2024-08-12 12:39:56,561 - INFO - CSV files identified: ['adg0001_er_2024_04_23.csv', 'adg0002_er_2024_04_23.csv']
+2024-08-12 12:39:56,563 - INFO - Full path for processing: C:/Users/asha4/OneDrive - SRH/Case Study-1/Dennis- Files/WG_ [EXTERN]  Transcripts and Biographies\adg0001_er_2024_04_23.csv
+2024-08-12 12:39:56,563 - INFO - Processing file: C:/Users/asha4/OneDrive - SRH/Case Study-1/Dennis- Files/WG_ [EXTERN]  Transcripts and Biographies\adg0001_er_2024_04_23.csv
+2024-08-12 12:39:56,572 - ERROR - An error occurred while processing the file C:/Users/asha4/OneDrive - SRH/Case Study-1/Dennis- Files/WG_ [EXTERN]  Transcripts and Biographies\adg0001_er_2024_04_23.csv: 'Summarizer' object has no attribute 'generate_biography'
+2024-08-12 12:39:56,572 - INFO - Full path for processing: C:/Users/asha4/OneDrive - SRH/Case Study-1/Dennis- Files/WG_ [EXTERN]  Transcripts and Biographies\adg0002_er_2024_04_23.csv
+2024-08-12 12:39:56,576 - INFO - Processing file: C:/Users/asha4/OneDrive - SRH/Case Study-1/Dennis- Files/WG_ [EXTERN]  Transcripts and Biographies\adg0002_er_2024_04_23.csv
+2024-08-12 12:39:56,605 - ERROR - An error occurred while processing the file C:/Users/asha4/OneDrive - SRH/Case Study-1/Dennis- Files/WG_ [EXTERN]  Transcripts and Biographies\adg0002_er_2024_04_23.csv: 'Summarizer' object has no attribute 'generate_biography'
+2024-08-12 12:39:56,609 - INFO - Monitoring directory: C:/Users/asha4/OneDrive - SRH/Case Study-1/Dennis- Files/
+2024-08-12 12:46:40,245 - INFO - Processing file: C:/Users/asha4/OneDrive - SRH/Case Study-1/Dennis- Files/WG_ [EXTERN]  Transcripts and Biographies\adg0001_er_2024_04_23.csv
+2024-08-12 12:47:34,301 - INFO - File processed successfully: C:/Users/asha4/OneDrive - SRH/Case Study-1/Dennis- Files/WG_ [EXTERN]  Transcripts and Biographies\adg0001_er_2024_04_23.csv
+2024-08-12 12:47:34,303 - INFO - Processing file: C:/Users/asha4/OneDrive - SRH/Case Study-1/Dennis- Files/WG_ [EXTERN]  Transcripts and Biographies\adg0002_er_2024_04_23.csv
+2024-08-12 12:51:17,186 - INFO - File processed successfully: C:/Users/asha4/OneDrive - SRH/Case Study-1/Dennis- Files/WG_ [EXTERN]  Transcripts and Biographies\adg0002_er_2024_04_23.csv
+2024-08-12 12:56:31,521 - INFO - Processing file: C:/Users/asha4/OneDrive - SRH/Case Study-1/Dennis- Files/WG_ [EXTERN]  Transcripts and Biographies\adg0001_er_2024_04_23.csv
+2024-08-12 12:57:34,719 - INFO - File processed successfully: C:/Users/asha4/OneDrive - SRH/Case Study-1/Dennis- Files/WG_ [EXTERN]  Transcripts and Biographies\adg0001_er_2024_04_23.csv
+2024-08-12 12:57:34,721 - INFO - Processing file: C:/Users/asha4/OneDrive - SRH/Case Study-1/Dennis- Files/WG_ [EXTERN]  Transcripts and Biographies\adg0002_er_2024_04_23.csv
