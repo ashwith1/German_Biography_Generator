@@ -1,1 +1,11 @@
-Flask=3.0.3
+Flask==3.0.3
+gunicorn
+python-docx
+pandas
+nltk
+fpdf
+flask-socketio
+PyPDF2
+langchain-together
+Werkzeug>=3.0.0
+Jinja2>=3.1.2
