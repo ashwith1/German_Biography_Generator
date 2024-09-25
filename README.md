@@ -26,6 +26,33 @@ This project is a web application that processes interview transcripts and gener
 
 ## Architecture
 
++---------------------------------------+
+|            Frontend (HTML, JS)        |
+|---------------------------------------|
+|   - File Upload Interface             |
+|   - Status Updates (via WebSockets)   |
+|   - Download Link for PDF             |
++---------------------------------------+
+                 |
+                 v
++---------------------------------------+
+|             Backend (Flask)           |
+|---------------------------------------|
+|   - File Handling (CSV, DOCX, PDF)    |
+|   - Text Summarization (LLM API)      |
+|   - PDF Generation (FPDF)             |
+|   - Real-time Updates (SocketIO)      |
++---------------------------------------+
+                 |
+                 v
++---------------------------------------+
+|     Large Language Model (LLM API)    |
+|---------------------------------------|
+|   - Together API for Text Summarization|
+|   - Meta-Llama-3.1-70B-Instruct-Turbo |
++---------------------------------------+
+
+
 The application uses a modular architecture with distinct components for file uploading, text extraction, summarization, and PDF generation.
 
 1. **Frontend**: 
